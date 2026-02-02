@@ -6,7 +6,7 @@ Actuellement, je me concentre sur le développement de modèles prédictifs et l
 
 ---
 
-### 🛠️ Ma Boîte à Outils Technique
+### Stack & Outils
 
 Voici les technologies et méthodologies que j'utilise au quotidien pour bâtir mes projets :
 
