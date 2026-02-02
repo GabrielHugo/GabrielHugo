@@ -1,6 +1,4 @@
-# Salut, c'est Hugo ! 👋
-
-### Développeur IA & Data Scientist | Esprit d'entreprendre 🚀
+### Développeur IA & Data Scientist
 
 Je suis un développeur passionné par la transformation de données brutes en solutions concrètes. Mon objectif est de combiner la puissance des **algorithmes de Machine Learning** et la clarté de la **Business Intelligence** pour créer des outils performants et autonomes.
 
